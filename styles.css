@@ -1,3 +1,27 @@
 h1 {
     color: rgb(51, 15, 15);
 }
+
+#page {
+    display: flex;
+}
+
+#left-side {
+    width: 50%;
+}
+
+#right-side {
+    width: 50%;
+}
+
+#bg-img {
+    width: 100%;
+}
+
+#form-section {
+    border-style: solid;
+}
+
+#form-whole {
+    display: flex;
+}
